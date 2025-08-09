@@ -85,4 +85,4 @@ This repo will have solutions to coding problems.
 |[Print Like A Wave](https://www.naukri.com/code360/problems/print-like-a-wave_893268)|[C++](./Others/Print_Like_A_Wave.cpp)|Coding Ninjas|
 
 ---
-Made with rage and ganne ka juice ✨  
+Chalo Bhago! (👉ﾟヮﾟ)👉  
