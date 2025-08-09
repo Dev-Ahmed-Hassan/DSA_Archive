@@ -12,8 +12,8 @@ This repo will have solutions to coding problems.
 ### **Solutions List**  
 | Problem | Solution File |
 |---------|---------------|
-|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[C++](./Blind%2075/Medium/128-Longest_Consecutive_Sequence.cpp)|
-| [Two Sum](https://leetcode.com/problems/two-sum) | [C++](./Blind%2075/Easy/1-Two_Sum.cpp) |
+|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[C++](./leetcode/128-Longest_Consecutive_Sequence.cpp)|
+| [Two Sum](https://leetcode.com/problems/two-sum) | [C++](./leetcode/1-Two_Sum.cpp) |
 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [C++](./leetcode/7-Reverse_Integers.cpp) |  
 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | [C++](./leetcode/1009-Complement_of_Base_10_Integer.cpp) | 
 | [Uniique Number of Occurences](https://leetcode.com/problems/unique-number-of-occurrences) | [C++](./leetcode/1207-Unique_Number_of_Occurrences.cpp) | 
