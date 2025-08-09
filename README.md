@@ -5,8 +5,8 @@ This repo will have solutions to coding problems.
 # My LeetCode Solutions 🚀
 
 ### **Progress**  
-✅ **Easy:** 25 solved  
-🔥 **Medium:** 22 solved  
+✅ **Easy:** 26 solved  
+🔥 **Medium:** 23 solved  
 💀 **Hard:** 0 solved  
 
 ### **Solutions List**  
